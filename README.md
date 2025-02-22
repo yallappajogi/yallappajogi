@@ -6,7 +6,7 @@
 
 🚀 Aspiring Backend Developer | 💻 Java | JavaScript | Node.js | Express | MySQL | MongoDB
 
-📑 Check out my resume here - [My Resume]https://drive.google.com/file/d/1NmhW6J9uAr8RXBoBeLFQRWIiQ_plEP76/view?usp=sharing
+📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1NmhW6J9uAr8RXBoBeLFQRWIiQ_plEP76/view?usp=sharing)
 
 
 # 💻 Tech Stack:
