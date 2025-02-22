@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yallappa-jogi-527255280/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yallappajogi40@gmail.com) 
 
-🚀 Aspiring Backend Developer | 💻 Java | DSA | JavaScript | Node.js | Express | MySQL | MongoDB
+🌱 I’m currently learning Backend Development!
 
 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1NmhW6J9uAr8RXBoBeLFQRWIiQ_plEP76/view?usp=sharing)
 
