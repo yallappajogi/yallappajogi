@@ -14,7 +14,8 @@
 
 ---
 📫 Connect with Me
-🔗 LinkedIn:https://www.linkedin.com/in/yallappa-jogi-527255280/
+🔗 LinkedIn:[Yallappa Jogi](https://www.linkedin.com/in/yallappa-jogi-527255280/)
+
 📩 Email: yallappajogi40@gmail.com
 
 
