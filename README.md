@@ -1,8 +1,6 @@
-# I'm Yallappa Jogi:
+# Hi 👋, I'm Yallappa Jogi
 I'm currently learning
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yallappa-jogi-527255280/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yallappajogi40@gmail.com) 
 
 # 💻 Tech Stack:
